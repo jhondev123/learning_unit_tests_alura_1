@@ -1,0 +1,17 @@
+Avaliador (Alura\Leilao\tests\Service\Avaliador)
+ [x] Avaliador get maior valor with data set "ordem crescente"
+ [x] Avaliador get maior valor with data set "ordem decrescente"
+ [x] Avaliador get menor valor with data set "ordem crescente"
+ [x] Avaliador get menor valor with data set "ordem decrescente"
+ [x] Avaliador get 3 maiores valores with data set "ordem crescente"
+ [x] Avaliador get 3 maiores valores with data set "ordem decrescente"
+ [x] Leilao sem lances precisa lancar uma excecao with data set "leilao sem lances"
+ [x] Leilao finalizado nao pode ser avaliado
+
+Leilao (Alura\Leilao\tests\Model\Leilao)
+ [x] Leilao deve receber lances with data set "1 lance"
+ [x] Leilao deve receber lances with data set "2 lances"
+ [x] Leilao nao deve receber lances repetidos
+ [x] Leilao nao deve receber mais de cinco lances
+ [x] Leilao finalizado nao pode aceitar outro lance
+
